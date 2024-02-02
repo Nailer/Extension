@@ -1,7 +1,7 @@
-import en from 'antd/es/locale/en_US';
-import message from 'antd/lib/message';
-import ReactDOM from 'react-dom/client';
-import { Provider } from 'react-redux';
+// import en from 'antd/es/locale/en_US';
+// import message from 'antd/lib/message';
+// import ReactDOM from 'react-dom/client';
+// import { Provider } from 'react-redux';
 
 import browser from '@/background/webapi/browser';
 import { EVENTS } from '@/shared/constant';
